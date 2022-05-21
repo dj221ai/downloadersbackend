@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+migrations/*
+!migrations/__init__.py
+
+*.pyc
+*.sqlite3
+env/
+
+
+
+.DS_STORE
